@@ -37,7 +37,7 @@ This repository contains code for image classification tasks using two powerful 
 3. **Prepare Your Dataset**:
    Ensure you have a dataset in Parquet format with images and corresponding labels.
    
-![image](https://github.com/gulkorkut/nasctg2-transfer-learning/assets/94754805/82b2ebb3-34c6-4369-809e-5c27a546e1a7)
+    ![image](https://github.com/gulkorkut/nasctg2-transfer-learning/assets/94754805/82b2ebb3-34c6-4369-809e-5c27a546e1a7)
 
 5. **Run the Code**:
    Execute the training scripts for EfficientNet and DenseNet models:
